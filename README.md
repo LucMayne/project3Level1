@@ -1,8 +1,8 @@
 ## Capstone Project 3 
 ## Level 1
 
-__This program alows a user to view different shoes in a Nike warehouse.
-All of the shoe objects are stored in a text file - inventory.txt__
+__*This program alows a user to view different shoes in a Nike warehouse.
+All of the shoe objects are stored in a text file - inventory.txt*__
 
 __Each shoe object has the following attributes:__
 * country
